@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently working at Mysten Labs💧 as a Software Engineer 💻
+ 🔭 I’m currently working at Mysten Labs💧 as a Solutions Engineer 💻
 
 Due to my involvement in various demanding dynamic web apps, I consider myself a full-stack developer, usually dealing with Angular in the frontend, while in the backend I am confident with both Spring Java and Laravel PHP frameworks, respectively.
 
